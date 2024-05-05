@@ -8,5 +8,4 @@ public class Cortes {
 	static private void imprimeNombre() {
 		System.out.println("Hola, soy Cortes");
 	}
-	
 }
